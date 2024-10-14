@@ -1,0 +1,11 @@
+altgraph
+et-xmlfile==1.1.0
+future
+macholib
+numpy==2.0.2
+openpyxl==3.1.5
+pandas==2.2.3
+python-dateutil==2.9.0.post0
+pytz==2024.2
+six
+tzdata==2024.2
