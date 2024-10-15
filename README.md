@@ -6,8 +6,7 @@ This repository contains the source code, data, and visualizations for the IVR d
 
 This project analyzes IVR (Interactive Voice Response) data to:
 
-## Identify the best time slots and days to reach participants and obtain consent.
-
+- Identify the best time slots and days to reach participants and obtain consent.
 - Perform a cost analysis, exploring cost-saving strategies by reducing call durations.
 - Generate visualizations to summarize findings and inform recommendations.
 
