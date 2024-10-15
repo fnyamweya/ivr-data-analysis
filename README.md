@@ -18,8 +18,8 @@ The dataset used in this project contains information about calls made to partic
 - SMS Consent Sent: Date SMS consent was sent.
 - IVR Date Attempted: Date when the IVR call was attempted.
 - IVR Time Attempted: Time when the IVR call was attempted.
-  -Consent Result: Whether the participant gave consent (yes_consent, no_consent).
-  -Call Duration [s]: Duration of the call in seconds.
+- Consent Result: Whether the participant gave consent (yes_consent, no_consent).
+- Call Duration [s]: Duration of the call in seconds.
 - Language: Language used during the call.
 - Enrollment Method: Method of participant enrollment (e.g., "mystery").
 
@@ -38,7 +38,8 @@ The cost per consented participant (mum) is calculated based on:
 - Current Strategy: Based on current call durations and a fixed platform fee.
 - Proposed Strategy: By reducing the call duration by 20%, the analysis explores how costs can be reduced while maintaining consent rates.
 
-Dependencies
+### Dependencies
+
 The following dependencies are required to run the analysis:
 
 - pandas: For data manipulation and analysis.
@@ -47,7 +48,7 @@ The following dependencies are required to run the analysis:
 - openpyxl: For reading/writing Excel files.
 - fpdf: For PDF generation (if necessary for reports).
 
-## Results and Recommendations
+### Results and Recommendations
 
 The analysis produced several key insights:
 
